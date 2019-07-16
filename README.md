@@ -1,4 +1,11 @@
-# pyKwalify
+# Yaml validation for mini-me project
+
+This a pyKwalify version from python Kwalify version to be used in the minime project (yet to be seen and heard of), 
+which relax some strict rules in favor for a flexible way to write the yaml and yet able to validate the rules
+only when applicable and explicit required.
+
+
+# pyKwalify - from https://github.com/Grokzen/pykwalify
 
 YAML/JSON validation library
 
@@ -74,7 +81,8 @@ and it might help to force UTF-8 encoding on all string objects. If this does no
 |   |   |
 |---|---|
 | python support         | 2.7, 3.5, 3.6, 3.7 |
-| Source                 | https://github.com/Grokzen/pykwalify |
+| Source (this)          | https://github.com/gmomm/pykwalify-minime/ |
+| Fork from Source 1.7.0 | https://github.com/Grokzen/pykwalify |
 | Docs (Latest release)  | http://pykwalify.readthedocs.io/en/master/ |
 | Docs (Unstable branch) | http://pykwalify.readthedocs.io/en/unstable/ |
 | Gitter (Free Chat)     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Grokzen/pykwalify?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) |
